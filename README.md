@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="left" height="500" src="[https://cdn.discordapp.com/attachments/1016796292128718888/1016864411299881002/banner_nowe.png](https://drive.google.com/file/d/1UZ3IqvVWapHLafvzP8hSv5pqgSbd0XKK/view?usp=sharing)"  />
+<img align="left" height="500" src="#"  />
 
 ###
 
